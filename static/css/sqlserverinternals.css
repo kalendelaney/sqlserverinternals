@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css?family=Shadows+Into+Light+Two');
+
+p {
+    font-family: 'Open Sans', sans-serif;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Shadows Into Light Two', cursive;
+}
+
+
+
+.header-title-link {
+    font-family: 'Shadows Into Light Two', cursive;
+    font-size: 3rem;
+    color: #243752;
+}
+
+#header .header-title .header-title-link {
+    color: #243752;
+    font-weight: 700;
+}
+#header .header-title .header-title-link:hover {
+    color: #7a5a6c;
+}
+
+.sidebar-profile-bio {
+    font-family: 'Open Sans', sans-serif;
+}
+
+a, a:active, a:visited {
+    color: #7A5A6C;
+}
+a:hover {
+    color: #5F9989;
+}
+
+.tag--primary:hover, a.tag--primary:hover {
+    color: #7A5A6C !important;
+    border: 1px solid #7A5A6C;
+}
+
+.tag--primary, a.tag--primary {
+    color: #243752!important;
+    border: 1px solid #243752;
+}
