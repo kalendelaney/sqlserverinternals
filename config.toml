@@ -12,7 +12,7 @@
 # For developpers, if you modify this theme, put your images in `source/images` folder and
 # use grunt task `build` to synchronize assets
 
-baseURL = "https://example.org/"
+baseURL = "https://sqlserverinternals.netlify.com/"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
 title = "SQL Server Internals"
@@ -116,7 +116,7 @@ canonifyurls = true
 
   # Define categories will create hierarchy between parents: `categories = ["foo", "bar"]` will consider "bar" a sub-category of "foo". 
   # If false it will flat categories.
-  hierarchicalCategories = flat
+  hierarchicalCategories = false
 
   description = "Kalen Delaney delivers awesome SQL Server training that helps you understand and solve crucial issues in the guts of your databases."
 
