@@ -224,6 +224,10 @@ defaultContentLanguageInSubdir = false
     icon_pack = "fa"
     link = "//twitter.com/sqlqueen"
 
+  [[params.social]]
+    icon = "rss"
+    icon_pack = "fa"
+    link = "http://sqlblog.com/blogs/kalen_delaney/default.aspx"
 #  [[params.social]]
 #    icon = "google-scholar"
 #    icon_pack = "ai"
@@ -253,10 +257,10 @@ defaultContentLanguageInSubdir = false
   url = "#publications_selected"
   weight = 4
 
-[[menu.main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 3
+#[[menu.main]]
+#  name = "Posts"
+#  url = "#posts"
+#  weight = 3
 
 [[menu.main]]
   name = "Training"

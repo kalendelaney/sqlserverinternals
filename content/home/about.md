@@ -36,3 +36,5 @@ weight = 5
 # Advanced SQL training
 
 Kalen Delaney teaches the most advanced SQL Server courses in the world. Her 5-day course “SQL Server Internals and Tuning” is designed for advanced SQL Server professionals who want to know how SQL Server really works, in order to take maximum advantage of its potential. 
+
+Get great training, books, and more from here. Catch up with [Kalen's blog on sqlblog.com](http://sqlblog.com/blogs/kalen_delaney/default.aspx).

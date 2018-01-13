@@ -15,6 +15,10 @@ weight = 60
 
 +++
 
+Check out these other useful resources:
+
+- [Kalen's blog](http://sqlblog.com/blogs/kalen_delaney/default.aspx)
+
 Here are some whitepapers and other things that are in the works:
 
 - whitepaper
