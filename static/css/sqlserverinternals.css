@@ -7,39 +7,73 @@ h1, h2, h3, h4, h5, h6 {
     font-family: 'Shadows Into Light Two', cursive;
 }
 
+.navbar-default, .navbar-header{
+    background-color: #243752;
+}
 
-
-.header-title-link {
+.navbar-default .navbar-brand {
     font-family: 'Shadows Into Light Two', cursive;
-    font-size: 3rem;
-    color: #243752;
+    color: white;
 }
 
-#header .header-title .header-title-link {
-    color: #243752;
-    font-weight: 700;
-}
-#header .header-title .header-title-link:hover {
-    color: #7a5a6c;
+.navbar-default .navbar-brand:hover {
+    color: #5F9989;
 }
 
-.sidebar-profile-bio {
-    font-family: 'Open Sans', sans-serif;
+.navbar-default .navbar-nav>li>a {
+    color: white;
+
+}
+
+.navbar-default .navbar-nav>li>a:hover {
+    color: #5F9989;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: white !important;
 }
 
 a, a:active, a:visited {
-    color: #7A5A6C;
+    color: rgb(122, 90, 108);
 }
 a:hover {
     color: #5F9989;
 }
-
-.tag--primary:hover, a.tag--primary:hover {
-    color: #7A5A6C !important;
-    border: 1px solid #7A5A6C;
+a, h3.article-title a:hover {
+    color: #5F9989;
+}
+.btn-primary {
+    border-color: #7A5A6C !important;
+    background: #7A5A6C !important;
+    background-color: rgb(122, 90, 108);
 }
 
-.tag--primary, a.tag--primary {
-    color: #243752!important;
-    border: 1px solid #243752;
+.btn-primary:hover, .btn-primary:active, .btn-primary.active, .btn-primary:visited, .open > .dropdown-toggle.btn-primary {
+    background: #5F9989 !important;
+}
+
+.btn-toolbar .btn.btn-primary.active {
+    background-color: #5F9989 !important;
+}
+
+.btn-toolbar .btn.btn-primary:hover, .btn-toolbar .btn.btn-primary:focus {
+    background-color: #243752 !important;
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:focus, .navbar-default .navbar-nav>.active>a:hover {
+    color: white;
+}
+
+.btn-primary.btn-outline {
+    color: white !important;
+    border-color: white !important;
+}
+
+ul.share li a {
+    background-color: #243752;
+
+}
+
+.big-icon {
+    color: #243752;
 }
