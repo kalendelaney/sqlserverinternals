@@ -8,7 +8,7 @@ date = "2016-04-20T00:00:00"
 
 # Note: a full width section format can be enabled by commenting out the `title` and `subtitle` with a `#`.
 title = "Extras"
-subtitle = "Other nifty stuff Kalen and SQL Server Internals are getting up to"
+subtitle = "Other awesome stuff Kalen and SQL Server Internals are getting up to"
 
 # Order that this section will appear in.
 weight = 60
