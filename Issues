@@ -1,0 +1,39 @@
+Cookies and tracking #11
+Do you want to allow comments (via Disqus) or track traffic (via Google Analytics) - if neither of these are enabled then you have no cookies making it really easy for the site to be GDPR compliant
+web work label
+
+
+Edit Extra activities #8
+Amend content in Extra activities
+
+content work good first issue labels
+
+Decide then implement approach to upcoming events #7
+Kalen needs to decide whether she wants to use the existing events mechanism or a calendar view based on google calendar
+
+If built-in instructions will be:
+	1.	Upload book images into static/img
+	2.	Create new publications in content/publication using the demo .md files as examples to copy
+	3.	Delete demo .md files
+If calendar, the calendar partial from hugo-lockedata will need porting
+
+content work web work question labels 
+
+Add information on available training courses #6
+	1.	Upload relevant images into static/img
+	2.	Create new training options in content/training using the demo .md files as examples to copy
+	3.	Delete demo .md files
+
+content work label
+
+Add publications #5
+	1.	Upload book images into static/img
+	2.	Create new publications in content/publication using the demo .md files as examples to copy
+	3.	Delete demo .md files
+
+content work label
+
+Favicon required #1
+@OzLocke - what do you think we could do here? We have a typographic logo that doesn't neatly condense
+
+ web work label
