@@ -21,7 +21,7 @@ weight = 3
 #   Deactivate by commenting out parameters, prefixing lines with `#`.
 [cta]
   url = "#projects"
-  label = '<i class="fa fa-graduationcap"></i> Book a course'
+  label = '<i class="fa fa-graduationcap"></i> Choose Your Training'
 +++
 
-See what courses are available and get the information you need to take your understanding of SQL Server to the next level.
+Browse the available courses and get the information you need to take your understanding of SQL Server to the next level.

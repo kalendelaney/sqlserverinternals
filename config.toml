@@ -10,7 +10,7 @@ title = "SQL Server Internals"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "SQL Server Internals &copy; 2018"
+copyright = "SQLearning, Inc. &copy; 2018"
 
 theme = "academic"
 enableEmoji = true
@@ -51,7 +51,7 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "SQL Server Internals"
-  role = "Awesome SQL Server training"
+  role = "Advanced SQL Server training"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -59,11 +59,11 @@ defaultContentLanguageInSubdir = false
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "training-square.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "contact@sqlserverinternals.com"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
+  email = "info@sqlserverinternals.com"
+  address = ""
   office_hours = ""
-  phone = "888 888 88 88"
-  skype = "echo123"
+  phone = ""
+  skype = ""
   telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
